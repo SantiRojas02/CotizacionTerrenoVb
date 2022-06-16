@@ -1,0 +1,9 @@
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+S:\Programacion\CotizacionTerrenoVb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
